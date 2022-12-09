@@ -2,8 +2,9 @@
 22/23 Creative Making: Advanced Physical Computing_Final Project
 
 ## Week4
-第一周我们首先开会选择项目主题,我们每个人在开会前都各自想了几个主题,最后在多个主题中最终选择了我家中即将枯萎的花作为项目的主题.我们决定一起创造一种不会死亡的机械植物来代替传统植物.然后进行调研搜索了一些植物和机械组合的例子.we imagined all kinds of possibilities for its future, such as having heartbeat, play with me, feeling the environment.
-<img width="654" alt="截屏2022-12-09 下午1 46 59" src="https://user-images.githubusercontent.com/119860662/206716313-0660ed5e-2a30-4f7f-b097-f1727fc19465.png">
+第一周我们开会选择项目主题,我们每个人在开会前都各自想了几个主题,最后在多个主题中最终选择了我家中即将枯萎的花作为项目的主题.我们决定一起创造一种不会死亡的机械植物来代替传统植物.然后进行调研搜索了一些植物和机械组合的例子.we imagined all kinds of possibilities for its future, such as having heartbeat, play with me, feeling the environment.
+<img width="633" alt="截屏2022-12-09 下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206747283-08d4ff65-c52f-4337-8361-3f2e163ac4e4.png">
+
 
 We plan to have input : heart rate sensor; Infrared sensor; pressure; distencer;  sound;
 out put : LED; Sound; motor; servoo motor.
@@ -69,11 +70,13 @@ delay(10);
 ## Week9
 这一周我们开始了最终的制作.
 首先我焊接电路板,灯带与电线.
-![IMG_0142](https://user-images.githubusercontent.com/119860662/206745976-8e17a7dd-752d-498e-bfdd-ec74de3f4679.JPG)
+![IMG_0142](https://user-images.githubusercontent.com/119860662/206747607-1f5c4d84-22b1-4ce3-8b04-93465e977242.JPG)
+
 然后将所有元件粘贴在花瓶中.
 ![IMG_3352](https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg)
+
 最后进行视频拍摄.
-<img width="664" alt="截屏2022-12-09 下午4 24 26" src="https://user-images.githubusercontent.com/119860662/206746857-b8f1a3e5-05e6-46c0-a2d2-c1e2a8367fc6.png">
+!<img width="645" alt="截屏2022-12-09 下午4 30 19" src="https://user-images.githubusercontent.com/119860662/206747939-dd4f997f-1448-4940-8272-b88c11dff945.png">
 
 
 
