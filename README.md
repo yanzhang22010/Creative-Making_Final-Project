@@ -25,7 +25,7 @@ The next week I bought materials with Liang Jiaxin and made simple models to tes
 
 ## Week6
 We bought copper wire and pipes together and made flower skeletons. We have tested 0.8 mm copper wire and 1.5 mm copper tube, 1mm copper wire and 2mm copper tube, 1.5 mm copper wire and 2.5 mm copper tube. Finally, the sizes of 1mm and 2mm, 1.5 mm and 2.5 mm were selected. Then we cut and weld the material.
-#### 困难:
+#### There are some difficulties
 There are many difficulties in actual manufacture. Firstly, the copper pipe is easy to be deformed. How to cut the copper pipe without affecting the shape of the copper pipe becomes the first problem, after many attempts we finally chose to cut with a saw.
 
 ![IMG_3198](https://user-images.githubusercontent.com/119860662/206733836-3b87afde-1356-4eb0-94f8-1843fd18a39b.jpg)
@@ -34,7 +34,7 @@ The second problem is that the copper pipe is very smooth so it is very difficul
 
 ![IMG_3199](https://user-images.githubusercontent.com/119860662/206736589-76886eab-a26e-48cd-b152-6ad3ff025cf3.jpg)
 
-Very difficult welding process
+Very difficult welding process. We all hurt our hands in the process.
 
 ![IMG_2857](https://user-images.githubusercontent.com/119860662/206741434-fe647a7d-9670-485d-822a-a64b8e4f7fc1.JPG)
 
