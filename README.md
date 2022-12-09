@@ -25,9 +25,8 @@ The plant can burst into color with just a touch of the heart rate sensor. light
 
 第二个问题就是铜管很光滑所以非常难焊接,经过我们花了很长时间才将铜管与铁丝焊接完成.
 ![IMG_3199](https://user-images.githubusercontent.com/119860662/206736589-76886eab-a26e-48cd-b152-6ad3ff025cf3.jpg)
-
-![IMG_3197](https://user-images.githubusercontent.com/119860662/206736598-3e71e9a8-7b0a-442d-a068-20b5955fd7f4.JPG)width=100px
-<img src="https://user-images.githubusercontent.com/119860662/206736598-3e71e9a8-7b0a-442d-a068-20b5955fd7f4.JPG "width="100px">
+非常困难的焊接过程
+![IMG_2857](https://user-images.githubusercontent.com/119860662/206741434-fe647a7d-9670-485d-822a-a64b8e4f7fc1.JPG)
 
 
 ## Week7
@@ -38,5 +37,9 @@ The plant can burst into color with just a touch of the heart rate sensor. light
 
 
 ## Week8
+写了心率传感器的代码并进行了调试.
+进过测试我在PulseSensor和max30102 heart-ratesensor中选择了PulseSensor.
+[IMG_8908](https://user-images.githubusercontent.com/119860662/206742530-82b1c055-8480-468b-9f21-e8fe11699c49.jpg)
+
 
 ## Week9
