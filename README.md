@@ -37,8 +37,9 @@ The plant can burst into color with just a touch of the heart rate sensor. light
 
 
 ## Week8
-写了心率传感器的代码并进行了调试.
+我用了心率传感器的代码并进行了调试.
 进过测试我在PulseSensor和max30102 heart-ratesensor中选择了PulseSensor.
+
 ```
 //  Variables
 int PulseSensorPurplePin = 0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
