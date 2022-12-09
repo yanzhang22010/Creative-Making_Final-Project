@@ -1,20 +1,20 @@
 # Creative-Making_Final-Project
-22/23 Creative Making: Advanced Physical Computing_Final Project
+22/23 Creative Making: Advanced Physical Computing_Final Project_22010384-YanZhang
 
 ## Week4
 The first week we had a meeting to choose a project theme. Each of us thought of a few themes before the meeting, and finally we chose the withering flowers in my home as the theme of the project. We decided to work together to create a mechanical plant that wouldn't die, instead of a traditional plant. 
 
-<img width="772" alt="截屏2022-12-09 下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206747283-08d4ff65-c52f-4337-8361-3f2e163ac4e4.png">
+<img width="1000" alt="截屏2022-12-09 下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206747283-08d4ff65-c52f-4337-8361-3f2e163ac4e4.png">
 
 Then I did some research and searched for some examples of plant and machine combinations.we imagined all kinds of possibilities for its future, such as having heartbeat, play with me, feeling the environment.
 
-<img width="772" alt="截屏2022-12-09 下午2 58 43" src="https://user-images.githubusercontent.com/119860662/206730458-be62f44d-8112-47f4-ae6b-b454709cf03f.png">
+<img width="1000" alt="截屏2022-12-09 下午2 58 43" src="https://user-images.githubusercontent.com/119860662/206730458-be62f44d-8112-47f4-ae6b-b454709cf03f.png">
 
 We plan to have input : heart rate sensor; Infrared sensor; pressure; distencer;  sound;
 out put : LED; Sound; motor; servoo motor.
 The plant can burst into color with just a touch of the heart rate sensor. light will change with your heart rate. Its petals will open and light up,  dancing. And play some sound.
 
-<img width="772" alt="截屏2022-12-09 下午2 56 39" src="https://user-images.githubusercontent.com/119860662/206730034-5c9bd2d7-c4ea-47f3-9b49-ae3c6d719ebf.png">
+<img width="1000" alt="截屏2022-12-09 下午2 56 39" src="https://user-images.githubusercontent.com/119860662/206730034-5c9bd2d7-c4ea-47f3-9b49-ae3c6d719ebf.png">
 
 
 ## Week5
@@ -54,8 +54,10 @@ We finished making the flowers.
 
 
 ## Week8
-我写了心率传感器的代码并进行了调试.
-进过测试我在PulseSensor和max30102 heart-ratesensor中选择了PulseSensor.
+I wrote the code for the heart rate sensor and I debugged it.
+
+#### There are some difficulties in this week.
+I first used the MAX30102 heart-ratesensor from Amazon, but couldn't use it. After testing, I found that the sensor was not in good contact because of welding. In order to ensure the completion and stability of the work, i chose PulseSensor over MAX30102 heart-ratesensor.
 
 ```
 //  Variables
@@ -92,7 +94,9 @@ First I soldered the circuit board, the lamp belt and the wire.
 
 Then paste all the components into the vase.
 
-![IMG_3352](https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg)
+<img width="700" alt="截屏2022下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg">
+
+
 
 Finally,We took the flowers home and put them together, and I shot the video, and it turned out really well.
 
