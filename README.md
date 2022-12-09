@@ -39,7 +39,42 @@ The plant can burst into color with just a touch of the heart rate sensor. light
 ## Week8
 写了心率传感器的代码并进行了调试.
 进过测试我在PulseSensor和max30102 heart-ratesensor中选择了PulseSensor.
-[IMG_8908](https://user-images.githubusercontent.com/119860662/206742530-82b1c055-8480-468b-9f21-e8fe11699c49.jpg)
+```
+//  Variables
+int PulseSensorPurplePin = 0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
+int LED13 = 13;   //  The on-board Arduion LED
+
+
+int Signal;                // holds the incoming raw data. Signal value can range from 0-1024
+int Threshold = 550;            // Determine which Signal to "count as a beat", and which to ingore.
+
+
+// The SetUp Function:
+void setup() {
+  pinMode(LED13,OUTPUT);         // pin that will blink to your heartbeat!
+   Serial.begin(9600);         // Set's up Serial Communication at certain speed.
+
+}
+
+// The Main Loop Function
+void loop() {
+
+  Signal = analogRead(PulseSensorPurplePin);  // Read the PulseSensor's value.
+                                              // Assign this value to the "Signal" variable.
+
+   Serial.println(Signal);                    // Send the Signal value to Serial Plotter.
+
+
+   if(Signal > Threshold){                          // If the signal is above "550", then "turn-on" Arduino's on-Board LED.
+     digitalWrite(LED13,HIGH);
+   } else {
+     digitalWrite(LED13,LOW);                //  Else, the sigal must be below "550", so "turn-off" this LED.
+   }
+
+
+delay(10);
+```
+![IMG_8908](https://user-images.githubusercontent.com/119860662/206742530-82b1c055-8480-468b-9f21-e8fe11699c49.jpg)
 
 
 ## Week9
