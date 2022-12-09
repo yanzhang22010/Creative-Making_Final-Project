@@ -2,43 +2,59 @@
 22/23 Creative Making: Advanced Physical Computing_Final Project
 
 ## Week4
-第一周我们开会选择项目主题,我们每个人在开会前都各自想了几个主题,最后在多个主题中最终选择了我家中即将枯萎的花作为项目的主题.我们决定一起创造一种不会死亡的机械植物来代替传统植物.然后进行调研搜索了一些植物和机械组合的例子.we imagined all kinds of possibilities for its future, such as having heartbeat, play with me, feeling the environment.
-<img width="633" alt="截屏2022-12-09 下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206747283-08d4ff65-c52f-4337-8361-3f2e163ac4e4.png">
+The first week we had a meeting to choose a project theme. Each of us thought of a few themes before the meeting, and finally we chose the withering flowers in my home as the theme of the project. We decided to work together to create a mechanical plant that wouldn't die, instead of a traditional plant. 
 
+<img width="772" alt="截屏2022-12-09 下午1 46 37" src="https://user-images.githubusercontent.com/119860662/206747283-08d4ff65-c52f-4337-8361-3f2e163ac4e4.png">
+
+Then I did some research and searched for some examples of plant and machine combinations.we imagined all kinds of possibilities for its future, such as having heartbeat, play with me, feeling the environment.
+
+<img width="772" alt="截屏2022-12-09 下午2 58 43" src="https://user-images.githubusercontent.com/119860662/206730458-be62f44d-8112-47f4-ae6b-b454709cf03f.png">
 
 We plan to have input : heart rate sensor; Infrared sensor; pressure; distencer;  sound;
 out put : LED; Sound; motor; servoo motor.
 The plant can burst into color with just a touch of the heart rate sensor. light will change with your heart rate. Its petals will open and light up,  dancing. And play some sound.
-<img width="772" alt="截屏2022-12-09 下午2 58 43" src="https://user-images.githubusercontent.com/119860662/206730458-be62f44d-8112-47f4-ae6b-b454709cf03f.png">
 
-<img width="776" alt="截屏2022-12-09 下午2 56 39" src="https://user-images.githubusercontent.com/119860662/206730034-5c9bd2d7-c4ea-47f3-9b49-ae3c6d719ebf.png">
+<img width="772" alt="截屏2022-12-09 下午2 56 39" src="https://user-images.githubusercontent.com/119860662/206730034-5c9bd2d7-c4ea-47f3-9b49-ae3c6d719ebf.png">
+
 
 ## Week5
-第二周我与梁佳欣一起买材料,制作简单的模型进行测试.我们用铁丝制作了demo.制作demo的过程非常困难,第一次我们只用铁丝缠绕固定花的造型,但是会影响花瓣的开合.之后我们分别尝试了铁丝,rubber band和铜管.最终选择用铜管与铜丝制作花的主体.
+The next week I bought materials with Liang Jiaxin and made simple models to test. We made a demo out of wire. The process of making the demo was very difficult. For the first time, we only used wire winding to fix the shape of the flower, but it would affect the opening and closing of the petals. Then we tried wire, rubber band and copper pipe. Finally, we choose to use copper tube and copper wire to make the main body of flowers.
+
 ![IMG_3195](https://user-images.githubusercontent.com/119860662/206733818-e1a95679-6c9b-4950-b029-dc6803330fe1.jpg)
 
 
 ## Week6
-我们一起去商店购买了铜丝与铜管,我们测试了0.8mm的铜丝和1.5mm的铜管,1mm的铜丝和2mm的铜管,1.5mm的铜丝和2.5mm的铜管.最终选择了1mm和2mm,1.5mm和2.5mm的两个尺寸.
+We bought copper wire and pipes together and made flower skeletons. We have tested 0.8 mm copper wire and 1.5 mm copper tube, 1mm copper wire and 2mm copper tube, 1.5 mm copper wire and 2.5 mm copper tube. Finally, the sizes of 1mm and 2mm, 1.5 mm and 2.5 mm were selected. Then we cut and weld the material.
 #### 困难:
-实际制作的时候遇到了非常多的困难,首先铜管很容易变形,如何能够在不影响铜管形状的同时切割铜管成为了第一个难题,经过多种尝试最终我们选择了用锯子切割.
+There are many difficulties in actual manufacture. Firstly, the copper pipe is easy to be deformed. How to cut the copper pipe without affecting the shape of the copper pipe becomes the first problem, after many attempts we finally chose to cut with a saw.
+
 ![IMG_3198](https://user-images.githubusercontent.com/119860662/206733836-3b87afde-1356-4eb0-94f8-1843fd18a39b.jpg)
 
-第二个问题就是铜管很光滑所以非常难焊接,经过我们花了很长时间才将铜管与铁丝焊接完成.
+The second problem is that the copper pipe is very smooth so it is very difficult to weld. It took us a long time to weld the copper pipe with the iron wire.
+
 ![IMG_3199](https://user-images.githubusercontent.com/119860662/206736589-76886eab-a26e-48cd-b152-6ad3ff025cf3.jpg)
-非常困难的焊接过程
+
+Very difficult welding process
+
 ![IMG_2857](https://user-images.githubusercontent.com/119860662/206741434-fe647a7d-9670-485d-822a-a64b8e4f7fc1.JPG)
+
+Finally the flower skeleton is finished.
+
+![IMG_2922 2](https://user-images.githubusercontent.com/119860662/206750429-83bdd15f-d878-4485-9e21-d95a1017be0e.jpg)
 
 
 ## Week7
-我们将花的骨架做完了开始制作花瓣,我选择了用中国传统的烫花技术制作花瓣.我用胶水与水混合洗欧根纱,使欧根纱在保持透明与轻盈的同时变的容易塑形.在组员将花瓣剪裁与染色好之后我用蜡烛加热勺子做出花瓣的褶皱造型.最后和组员一起将花瓣粘在花上,并进行修剪.
+This week I first spent a lot of time repairing the welding part of the flower frame, then I started to make the petals, I chose to use the traditional Chinese hot stamping technology to make the petals. I wash the organza with glue and water to make it easy to shape while keeping it transparent and light. After the team had cut and dyed the petals, I heated the spoon with a candle to create a crease in the petals. Finally, stick the petals on the flowers with the team and trim them.
+
 ![IMG_3452](https://user-images.githubusercontent.com/119860662/206739189-639e8d62-b1ff-4035-a2b3-96dacdfbf4d7.jpg)
-最终花制作完成.
+
+We finished making the flowers.
+
 ![IMG_3207](https://user-images.githubusercontent.com/119860662/206739715-04fa48d9-1ba5-4afc-87fc-118ac1674df5.jpg)
 
 
 ## Week8
-我用了心率传感器的代码并进行了调试.
+我写了心率传感器的代码并进行了调试.
 进过测试我在PulseSensor和max30102 heart-ratesensor中选择了PulseSensor.
 
 ```
@@ -64,21 +80,28 @@ void loop() {
    }
 delay(10);
 ```
+
 ![IMG_8908](https://user-images.githubusercontent.com/119860662/206742530-82b1c055-8480-468b-9f21-e8fe11699c49.jpg)
 
 
 ## Week9
-这一周我们开始了最终的制作.
-首先我焊接电路板,灯带与电线.
+This week we started the final production.
+First I soldered the circuit board, the lamp belt and the wire.
+
 ![IMG_0142](https://user-images.githubusercontent.com/119860662/206747607-1f5c4d84-22b1-4ce3-8b04-93465e977242.JPG)
 
-然后将所有元件粘贴在花瓶中.
+Then paste all the components into the vase.
+
 ![IMG_3352](https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg)
 
-最后进行视频拍摄.
+Finally,We took the flowers home and put them together, and I shot the video, and it turned out really well.
+
+![IMG_3456](https://user-images.githubusercontent.com/119860662/206752452-9e3e4fda-79f9-4ba6-a633-2d014748ca1e.jpg)
+
+The final shot
+
 ![IMG_012](https://user-images.githubusercontent.com/119860662/206747939-dd4f997f-1448-4940-8272-b88c11dff945.png)
 
-<img width="645" alt="截屏2022-12-09 下午4 30 19" src="https://user-images.githubusercontent.com/119860662/206747939-dd4f997f-1448-4940-8272-b88c11dff945.png">
 
 
 
