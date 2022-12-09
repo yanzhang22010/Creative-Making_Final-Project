@@ -44,38 +44,37 @@ The plant can burst into color with just a touch of the heart rate sensor. light
 //  Variables
 int PulseSensorPurplePin = 0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
 int LED13 = 13;   //  The on-board Arduion LED
-
-
 int Signal;                // holds the incoming raw data. Signal value can range from 0-1024
 int Threshold = 550;            // Determine which Signal to "count as a beat", and which to ingore.
-
-
 // The SetUp Function:
 void setup() {
   pinMode(LED13,OUTPUT);         // pin that will blink to your heartbeat!
    Serial.begin(9600);         // Set's up Serial Communication at certain speed.
-
 }
-
 // The Main Loop Function
 void loop() {
-
   Signal = analogRead(PulseSensorPurplePin);  // Read the PulseSensor's value.
                                               // Assign this value to the "Signal" variable.
-
    Serial.println(Signal);                    // Send the Signal value to Serial Plotter.
-
-
    if(Signal > Threshold){                          // If the signal is above "550", then "turn-on" Arduino's on-Board LED.
      digitalWrite(LED13,HIGH);
    } else {
      digitalWrite(LED13,LOW);                //  Else, the sigal must be below "550", so "turn-off" this LED.
    }
-
-
 delay(10);
 ```
 ![IMG_8908](https://user-images.githubusercontent.com/119860662/206742530-82b1c055-8480-468b-9f21-e8fe11699c49.jpg)
 
 
 ## Week9
+这一周我们开始了最终的制作.
+首先我焊接电路板,灯带与电线.
+![IMG_0142](https://user-images.githubusercontent.com/119860662/206745976-8e17a7dd-752d-498e-bfdd-ec74de3f4679.JPG)
+然后将所有元件粘贴在花瓶中.
+![IMG_3352](https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg)
+最后进行视频拍摄.
+<img width="664" alt="截屏2022-12-09 下午4 24 26" src="https://user-images.githubusercontent.com/119860662/206746857-b8f1a3e5-05e6-46c0-a2d2-c1e2a8367fc6.png">
+
+
+
+
