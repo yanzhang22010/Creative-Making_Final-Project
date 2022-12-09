@@ -48,6 +48,8 @@ This week I first spent a lot of time repairing the welding part of the flower f
 
 ![IMG_3452](https://user-images.githubusercontent.com/119860662/206739189-639e8d62-b1ff-4035-a2b3-96dacdfbf4d7.jpg)
 
+<img width="1000" alt="截屏2022-12-09 下午5 33 09" src="https://user-images.githubusercontent.com/119860662/206759826-d6ec03b3-3cef-4174-85aa-ede7f0e5146d.png">
+
 We finished making the flowers.
 
 ![IMG_3207](https://user-images.githubusercontent.com/119860662/206739715-04fa48d9-1ba5-4afc-87fc-118ac1674df5.jpg)
