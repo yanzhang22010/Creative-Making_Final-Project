@@ -76,6 +76,7 @@ delay(10);
 ![IMG_3352](https://user-images.githubusercontent.com/119860662/206746014-60c80480-5e1d-4185-a56d-c6cf936365db.jpg)
 
 最后进行视频拍摄.
+![IMG_012](https://user-images.githubusercontent.com/119860662/206747939-dd4f997f-1448-4940-8272-b88c11dff945.png)
 
 <img width="645" alt="截屏2022-12-09 下午4 30 19" src="https://user-images.githubusercontent.com/119860662/206747939-dd4f997f-1448-4940-8272-b88c11dff945.png">
 
